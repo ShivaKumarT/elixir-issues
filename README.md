@@ -1,7 +1,5 @@
 # Issues
-
-**TODO: Add description**
-
+A sample elixir application to fetch issues from Github. 
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
